@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "formidable": "^2.0.1",
+    "mv": "^2.1.1"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
